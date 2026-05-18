@@ -43,7 +43,8 @@ Home Page → Sign In → Dashboard → AI Tools Interface
 - Database connection
 - Real AI API integration
 - User authentication system
-
+  ##  Live Demo
+    https://quicky-ai-eg73.vercel.app
 ## Developer
 
 Built as a full-stack project (Frontend completed, Backend in progress).
